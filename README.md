@@ -29,9 +29,9 @@ Pe langa atributele precum nume, varsta, oras, aceste 2 clase mai au niste atrib
    La final Mos Craciun calculeaza drumul cel mai scurt si il afiseaza.
    
    
-   **Probleme intalnite: **
+   **Probleme intalnite**
     
   Daca un copil are mai mult de o jucarie in whislist iar pretul primei jucarii este mai mare decat bugetul, dar pretul celei de al 2-lea este mai mic sau egal decat bugetul, programul va vedea faptul ca pretul primei jucarii este mai mare decat bugetul alocat si va pune in sacosa cadoul default.
   
-
+  
 
