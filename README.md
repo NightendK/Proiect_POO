@@ -22,6 +22,7 @@ Pe langa atributele precum nume, varsta, oras, aceste 2 clase mai au niste atrib
    Mos Craciun calculeaza drumul cel mai scurt folosind algoritmul Dijkstra, implementat folosind containere din C++ (vector, list, set). Reprezentarea oraselor in algoritm se face pe baza de noduri de tip int, afisearea finala a drumului folosiind numele acestora fiind posibila datorita stabilirii initiale a oraselor si a distantelor.
    
    **RULAREA IN MAIN**
+   
    Pentru ca algoritmul sa functioneze eficient, este nevoie ca anumite atribute sa fie setate la inceput.
    Odata cu constructia unui obiect de tip fata sau baiat, este important setat statu-ul si whislistul inainte de a trece mai departe la elful asociat care va creea inventarul ce va fi acelasi pentru toti elfii. Setarea acestor 2 atribute este importanta deoarece elful lucreaza mai departe cu acestea pentru a creea sacul cu cadourile finale. Daca acestea nu au fost initializate inainte de a folosii metodele elfului, atunci programul nu va functiona corectspunzator.
    Mai departe se apeleaza trolul care va impacheta cadoul pentru copil si dupa programul trece la Doamna Craciun care va calcula bugetul extra. Acest flow se executa pentru totii copiii.
